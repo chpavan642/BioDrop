@@ -1,0 +1,15 @@
+{
+  "name": "Ch. Pavan",
+   "type": "personal",
+  "bio": "Aspiring developer exploring open source.",
+  "links": [
+    {
+      "name": "Here's my GitHub",
+      "url": "https://github.com/chpavan642"
+    },
+    {
+      "name": "Here's my Leetcode profile",
+      "url": "https://leetcode.com/chpavan642"
+    }
+  ]
+}
